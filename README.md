@@ -1,0 +1,1 @@
+i created a consumption forecast prediction machine which analyzes the daily ups and downs of the consumption of a particular household (in this case particularly) and the changes that they do in order to maintain their monthly budget.
